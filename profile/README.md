@@ -1,4 +1,4 @@
-![](./flowser-banner.png)
+![](https://github.com/onflowser/.github/blob/main/profile/flowser-banner.png?raw=true)
 
 <hr/>
 
